@@ -217,7 +217,8 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 ## OUTPUT:
 
-Justify that the algorithm always returns the shortest path:
+![Screenshot from 2022-05-10 16-32-01](https://user-images.githubusercontent.com/75235334/167614488-f4ebcfb8-af87-4c10-8421-881c46354635.png)
+
 
 ## RESULT:
 Justify that the algorithm always returns the shortest path:

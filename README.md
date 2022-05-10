@@ -19,8 +19,9 @@ Select a specific number of nodes with distance
 
 ## ROUTE MAP
 #### Include your own map
-#### Example map
-![ alt text for screen readers](./images/map1.jpg "Map around my house")
+#### map
+
+![map](https://user-images.githubusercontent.com/75235334/166135743-5af921a2-5724-484f-a0ad-4bf02de318ee.jpg)
 
 ## PROGRAM
 Include your code here

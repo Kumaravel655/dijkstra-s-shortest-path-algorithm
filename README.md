@@ -1,4 +1,8 @@
-# Dijkstra's Shortest Path Algorithm
+## EX NO:03
+## DATE:10.05.22
+# <p align="center"> Dijkstra's Shortest Path Algorithm
+
+
 ## AIM
 
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
@@ -222,6 +226,28 @@ path_states(goal_state_path)
 print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ```
 
+ ```           
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+ ``` 
+            
 ## OUTPUT:
 
 
